@@ -1,11 +1,4 @@
 **🔐 Caesar Cipher – Python Implementation**
-
-**📌 Internship Task – Cybersecurity**
-
-_Task Name: Implement Caesar Cipher_
-
-_Task Number: Task-01_
-
 ---
 
 🔐 What is Caesar Cipher?
